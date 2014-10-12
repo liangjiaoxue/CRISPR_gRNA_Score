@@ -1,3 +1,5 @@
+# direction of gRNA is 5' to 3' (NGG or NAG at the right end)
+
 my @site = &seq2mismatch($gRNA_seq,$ref_seq);
 my $gRNA_score = &sites2score(@site );
 
