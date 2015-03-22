@@ -1,3 +1,5 @@
-CRISPRqc
+CRISPR_gRNA_Score
 ========
-CRISPRqc = CRISPR(clustered regularly interspaced short palindromic repeats) quick counting 
+CRISPR_gRNA_Score
+
+Perl Script to calculate mistarge scores for gRNAs.
