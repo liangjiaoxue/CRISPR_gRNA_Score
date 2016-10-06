@@ -1,3 +1,7 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
 # direction of gRNA is 5' to 3' (NGG or NAG at the right end)
 
 my @site = &seq2mismatch($gRNA_seq,$ref_seq);
